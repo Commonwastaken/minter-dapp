@@ -8,11 +8,11 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
+  --bg-color: #0056f7;
+  --bg-color-transparent: #00000080;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #fe7ef8;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -317,7 +317,7 @@ section {
 /* SLIDDER */
 
 .splide {
-  position: absolute;
+  position:static;
   top: 90px;
   left: 5rem;
   z-index: -1;
@@ -334,7 +334,7 @@ section {
 
 /* SPINNER */
 .dot-spin {
-  position: absolute;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(3);
