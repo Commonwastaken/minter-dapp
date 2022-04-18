@@ -1,9 +1,9 @@
 const contractAddress = "0xC8387A0f85B615E6F11D266758F3DfaeB3ECDC8e"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CryptoMafia NFT Project!!";
+const welcome_h1 = "Welcome to the CypherFighters NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'CryptoMafia is an up an coming NFT collection that is looking to shock the block chain with its new and nostalgic pixel art designs.';
+const welcome_p = 'CypherFighters is an up an coming NFT collection that is looking to shock the block chain with its new and nostalgic pixel art designs.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
